@@ -113,14 +113,38 @@ export const Span = styled.span`
 
 // Social Icons
 
-export const SocialIcons = styled.a`
+export const SocialIconsLi = styled.a`
   transition: 0.3s ease;
   color: white;
   border-radius: 50px;
   padding: 8px;
   &:hover {
-    background-color: #212d45;
+    background-color: #0e76a8;
     transform: scale(1.2);
     cursor: pointer;
   }
 `;
+export const SocialIconsGi = styled.a`
+  transition: 0.3s ease;
+  color: white;
+  border-radius: 50px;
+  padding: 8px;
+  &:hover {
+    background-color: #333;
+    transform: scale(1.2);
+    cursor: pointer;
+  }
+`;
+
+export const SocialIconsEmail = styled.a`
+  transition: 0.3s ease;
+  color: white;
+  border-radius: 50px;
+  padding: 8px;
+  &:hover {
+    background-color: #bb001b;
+    transform: scale(1.2);
+    cursor: pointer;
+  }
+`;
+

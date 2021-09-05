@@ -10,7 +10,9 @@ import {
   Div2,
   Div3,
   NavLink,
-  SocialIcons,
+  SocialIconsGi,
+  SocialIconsLi,
+  SocialIconsEmail,
   Span,
 } from "./HeaderStyles";
 
@@ -49,15 +51,15 @@ const Header = () => (
       </li>
     </Div2>
     <Div3>
-      <SocialIcons href="https://github.com/whodissaket">
+      <SocialIconsGi href="https://github.com/whodissaket">
         <AiFillGithub size="3rem" />
-      </SocialIcons>
-      <SocialIcons href="https://www.linkedin.com/in/saket-nandanwar-70b838125/">
+      </SocialIconsGi>
+      <SocialIconsLi href="https://www.linkedin.com/in/saket-nandanwar-70b838125/">
         <AiFillLinkedin size="3rem" />
-      </SocialIcons>
-      <SocialIcons href="mailto:saketnandanwar@gmail.com">
+      </SocialIconsLi>
+      <SocialIconsEmail href="mailto:saketnandanwar@gmail.com">
         <HiOutlineMail size="3rem" />
-      </SocialIcons>
+      </SocialIconsEmail>
     </Div3>
   </Container>
 );
