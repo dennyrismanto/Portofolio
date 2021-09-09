@@ -13,7 +13,7 @@ export const projects = [
     title: "Cookyn",
     description:
       "A food order app based in React and Firebase which lets user order Food and custimize it. ",
-    image: "/images/4.png",
+    image: "/images/4.PNG",
     tags: ["React", "Firebase", "JavaScript"],
     source: "https://cookyn.netlify.app/",
     visit: "https://github.com/whodissaket/cookyn",
@@ -23,7 +23,7 @@ export const projects = [
     title: "Protekt",
     description:
       "Protekt is a Desktop based Password manager made with python and PyQT5 which uses AES-256 and Hashing to protect User's Passwords so that they never have to worry about forgetting their passwords again.It also features an AutoLogin* feature and a QR-Code Generator to share passwords among groups.",
-    image: "/images/3.jpg",
+    image: "/images/2.jpg",
     tags: ["Python", "PyQt5"],
     source: "https://github.com/mranonymod/PyProject",
     visit: "https://github.com/mranonymod/PyProject",
