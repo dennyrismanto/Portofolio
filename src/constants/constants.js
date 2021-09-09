@@ -14,7 +14,7 @@ export const projects = [
     description:
       "A food order app based in React and Firebase which lets user order Food and custimize it. ",
     image: "/images/4.png",
-    tags: ["React", "JavaScript"],
+    tags: ["React", "Firebase", "JavaScript"],
     source: "https://cookyn.netlify.app/",
     visit: "https://github.com/whodissaket/cookyn",
     id: 1,

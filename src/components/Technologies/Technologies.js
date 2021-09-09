@@ -21,7 +21,7 @@ const Technologies = () => (
     <SectionDivider />
     <br />
     <SectionTitle>Tech Stacks</SectionTitle>
-    <SectionText>Range of technologies I have worked with</SectionText>
+    <SectionText>Range of technologies I am familiar with</SectionText>
     <List>
       <ListItem>
         <FaReact size="3rem" />
@@ -29,7 +29,9 @@ const Technologies = () => (
           <ListTitle>Front-End</ListTitle>
           <ListParagraph>
             Nextjs, React.js ,<br />
-            HTML, CSS, Javascript
+            HTML, CSS, Javascript,
+            <br />
+            EJS
           </ListParagraph>
         </ListContainer>
       </ListItem>

@@ -16,13 +16,11 @@ const Hero = (props) => (
         Saket Nandanwar
       </SectionTitle>
       <SectionText>
-        I'm a <b>Full Stack Developer and a student</b> based in{" "}
+        I'm a <b> Budding Full Stack Developer and a student</b> based in{" "}
         <b>Mumbai, India</b>.
       </SectionText>
       <Button
-        onClick={() =>
-          (window.location = "https://www.youtube.com/watch?v=dQw4w9WgXcQ")
-        }
+        onClick={() => (window.location = "https://github.com/whodissaket")}
       >
         Learn More
       </Button>
