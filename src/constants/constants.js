@@ -13,7 +13,7 @@ export const projects = [
     title: "Cookyn",
     description:
       "A food order app based in React and Firebase which lets user order Food and custimize it. ",
-    image: "/images/cookyn.png",
+    image: "/images/cookyn.jpg",
     tags: ["React", "Firebase", "JavaScript"],
     source: "https://cookyn.netlify.app/",
     visit: "https://github.com/whodissaket/cookyn",
