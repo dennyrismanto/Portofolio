@@ -13,7 +13,7 @@ export const projects = [
     title: "Cookyn",
     description:
       "A food order app based in React and Firebase which lets user order Food and custimize it. ",
-    image: "/images/4.png",
+    image: "/images/4.PNG",
     tags: ["React", "Firebase", "JavaScript"],
     source: "https://cookyn.netlify.app/",
     visit: "https://github.com/whodissaket/cookyn",
@@ -33,7 +33,7 @@ export const projects = [
     title: "Travelhoy",
     description:
       "A travel advisor app made in ReactJS using Google Maps API and RapidAPI which shows you nearest Restaurants , Attractions and Hotels around you based on your location with Weather which is Data Filtered to make your travel experience smoother.",
-    image: "/images/3.png",
+    image: "/images/3.PNG",
     tags: ["React", "GoogleMaps API", "Rapid API"],
     source: "https://travelhoy.netlify.app/",
     visit: "https://github.com/whodissaket/travelhoy",
