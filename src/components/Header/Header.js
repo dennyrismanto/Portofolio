@@ -51,13 +51,13 @@ const Header = () => (
       </li>
     </Div2>
     <Div3>
-      <SocialIconsGi href="https://github.com/whodissaket">
+      <SocialIconsGi href="https://github.com/dennyrismanto">
         <AiFillGithub size="3rem" />
       </SocialIconsGi>
-      <SocialIconsLi href="https://www.linkedin.com/in/saket-nandanwar-70b838125/">
+      <SocialIconsLi href="https://www.linkedin.com/in/denny-rismanto-99537bb6/">
         <AiFillLinkedin size="3rem" />
       </SocialIconsLi>
-      <SocialIconsEmail href="mailto:saketnandanwar@gmail.com">
+      <SocialIconsEmail href="mailto:rismanto.denny@gmail.com">
         <HiOutlineMail size="3rem" />
       </SocialIconsEmail>
     </Div3>
