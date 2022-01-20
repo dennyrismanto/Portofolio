@@ -67,7 +67,7 @@ const Timeline = () => {
     <Section id="about">
       <SectionTitle>About Me</SectionTitle>
       <SectionText>
-        I am Saket Nandanwar,an Physics Education in Universitas Islam Negeri
+        I am Denny Rismanto,an Physics Education in Universitas Islam Negeri
         Syarif Hidayatullah Jakarta.I specialize in{" "}
         <b>Full Stack Web Development</b>.
         <br />
