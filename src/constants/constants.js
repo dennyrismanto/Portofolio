@@ -1,48 +1,30 @@
 export const projects = [
   {
-    title: "talkey",
+    title: "Movie Catalogue",
     description:
-      "A full time Chat Application made with React JS ,Firebase and Chat-Engine with Google Oauth made to communicate in a group with friends",
-    image: "/images/1.png",
-    tags: ["React", "Chat Engine", "Firebase"],
-    source: "https://talkey.netlify.app/",
-    visit: "https://github.com/whodissaket/talkey",
+      "You can search list movie base on The Movie Database API with Android studio base on Java                                                                      ",
+    image: "",
+    tags: ["Java", "Retrofit"],
+    source: "",
+    visit: "https://github.com/dennyrismanto/Submissionlima",
     id: 0,
   },
   {
-    title: "Cookyn",
+    title: "Malahngoding",
     description:
-      "A food order app based in React and Firebase which lets user order Food and custimize it. ",
-    image: "/images/cookyn.jpg",
-    tags: ["React", "Firebase", "JavaScript"],
-    source: "https://cookyn.netlify.app/",
-    visit: "https://github.com/whodissaket/cookyn",
+      "Sebuah platform pembelajaran praktis untuk para pengembang aplikasi bagi pemula.",
+    image: "",
+    tags: ["React", "Laravel", "JavaScript"],
+    source: "https://malahngoding.com/",
+    visit: "",
     id: 1,
-  },
-  {
-    title: "Protekt",
-    description:
-      "Protekt is a Desktop based Password manager made with python and PyQT5 which uses AES-256 and Hashing to protect User's Passwords so that they never have to worry about forgetting their passwords again.It also features an AutoLogin* feature and a QR-Code Generator to share passwords among groups.",
-    image: "/images/2.jpg",
-    tags: ["Python", "PyQt5"],
-    source: "https://github.com/mranonymod/PyProject",
-    visit: "https://github.com/mranonymod/PyProject",
-    id: 2,
-  },
-  {
-    title: "Travelhoy",
-    description:
-      "A travel advisor app made in ReactJS using Google Maps API and RapidAPI which shows you nearest Restaurants , Attractions and Hotels around you based on your location with Weather which is Data Filtered to make your travel experience smoother.",
-    image: "/images/3.PNG",
-    tags: ["React", "GoogleMaps API", "Rapid API"],
-    source: "https://travelhoy.netlify.app/",
-    visit: "https://github.com/whodissaket/travelhoy",
-    id: 3,
   },
 ];
 
 export const TimeLineData = [
-  { year: 2020, text: "Worked as a Catalyst for DSC-RAIT" },
-  { year: 2021, text: "Data Analyst Volunteer at TEDxDYPatilUniversity" },
-  { year: 2021, text: "Freelancer for Greendoors" },
+  { year: 2018, text: "Worked as a Data Entry at Universitas Terbuka" },
+  {
+    year: 2021,
+    text: "I have been working in Malahngoding as a Software Engineer",
+  },
 ];

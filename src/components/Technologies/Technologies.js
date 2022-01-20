@@ -30,8 +30,6 @@ const Technologies = () => (
           <ListParagraph>
             Nextjs, React.js ,<br />
             HTML, CSS, Javascript,
-            <br />
-            EJS
           </ListParagraph>
         </ListContainer>
       </ListItem>
@@ -42,9 +40,9 @@ const Technologies = () => (
         <ListContainer>
           <ListTitle>Back-End</ListTitle>
           <ListParagraph>
-            Node.js , Express.js,
+            Node.js , Fastify,
             <br />
-            Python,Java
+            Laravel
           </ListParagraph>
         </ListContainer>
       </ListItem>
@@ -54,10 +52,8 @@ const Technologies = () => (
         <ListContainer>
           <ListTitle>Others</ListTitle>
           <ListParagraph>
-            Firebase,Google Cloud,
+            Firebase,Jira,
             <br /> Git,Figma,
-            <br />
-            C/C++,Haskell
           </ListParagraph>
         </ListContainer>
       </ListItem>

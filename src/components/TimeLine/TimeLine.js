@@ -67,14 +67,11 @@ const Timeline = () => {
     <Section id="about">
       <SectionTitle>About Me</SectionTitle>
       <SectionText>
-        I am Saket Nandanwar,an Engineering Student pursuing B.E(Bachelor of
-        Engineering) IT in Ramrao Adik Institute of Technology.I specialize in{" "}
-        <b>Full Stack Web Development</b>.I have worked with many Technologies
-        in several different projects.
+        I am Saket Nandanwar,an Physics Education in Universitas Islam Negeri
+        Syarif Hidayatullah Jakarta.I specialize in{" "}
+        <b>Full Stack Web Development</b>.
         <br />
         <br />
-        Currently, I am working as Data Analyst Volunteer at
-        TEDxDYPatilUniversity and leading a freelance project for Greendoors.
       </SectionText>
       <CarouselContainer ref={carouselRef} onScroll={handleScroll}>
         <>

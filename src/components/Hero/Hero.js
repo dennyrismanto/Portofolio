@@ -13,14 +13,14 @@ const Hero = (props) => (
     <LeftSection>
       <SectionTitle main center>
         Hi! I'm <br />
-        Saket Nandanwar
+        Denny Rismanto
       </SectionTitle>
       <SectionText>
         I'm a <b> Budding Full Stack Developer and a student</b> based in{" "}
-        <b>Mumbai, India</b>.
+        <b>UIN Syarif Hidayatullah, Jakarta</b>.
       </SectionText>
       <Button
-        onClick={() => (window.location = "https://github.com/whodissaket")}
+        onClick={() => (window.location = "https://github.com/dennyrismanto")}
       >
         Learn More
       </Button>
