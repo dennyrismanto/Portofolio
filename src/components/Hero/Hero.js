@@ -16,7 +16,7 @@ const Hero = (props) => (
         Denny Rismanto
       </SectionTitle>
       <SectionText>
-        I'm a <b> Budding Full Stack Developer and a student</b> based in{" "}
+        I'm a <b> Full Stack Developer and a student</b> based in{" "}
         <b>UIN Syarif Hidayatullah, Jakarta</b>.
       </SectionText>
       <Button

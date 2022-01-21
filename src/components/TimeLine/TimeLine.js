@@ -67,9 +67,10 @@ const Timeline = () => {
     <Section id="about">
       <SectionTitle>About Me</SectionTitle>
       <SectionText>
-        I am Denny Rismanto,an Physics Education in Universitas Islam Negeri
-        Syarif Hidayatullah Jakarta.I specialize in{" "}
-        <b>Full Stack Web Development</b>.
+        I'm a coding enthusiast who loves to code in various languages and
+        Frameworks. I made a catalogue movie project using Android Studio (JAVA)
+        and now I'm developing Internal website in <b>Malah Ngoding</b>Malah
+        Ngoding using Laravel, Tailwind, CSS, Livewire, PHP, Fastify.
         <br />
         <br />
       </SectionText>
