@@ -69,8 +69,7 @@ const Timeline = () => {
       <SectionText>
         I'm a coding enthusiast who loves to code in various languages and
         Frameworks. I made a catalogue movie project using Android Studio (JAVA)
-        and now I'm developing Internal website in <b>Malah Ngoding</b>Malah
-        Ngoding using Laravel, Tailwind, CSS, Livewire, PHP, Fastify.
+        and now I'm developing Internal website in <b>Malah Ngoding</b>.
         <br />
         <br />
       </SectionText>
